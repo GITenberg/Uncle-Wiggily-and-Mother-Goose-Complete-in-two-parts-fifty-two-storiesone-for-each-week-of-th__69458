@@ -1,0 +1,41 @@
+_repo: Uncle-Wiggily-and-Mother-Goose-Complete-in-two-parts-fifty-two-storiesone-for-each-week-of-th__69458
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bloomfield, Edward
+    gutenberg_agent_id: '41748'
+    url: http://www.gutenberg.org/2009/agents/41748
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2022-12-02'
+identifiers:
+  gutenberg: '69458'
+language: en
+pgterms:marc904: https://archive.org/details/unclewiggilymoth00gari/mode/2up
+pgterms:marc905: 20220522111206garis
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: David Edwards, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: R. F. Fenno & Company,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Uncle Wiggily and Mother Goose: Complete in two parts; fifty-two stories—one
+  for each week of the year'
+url: http://www.gutenberg.org/ebooks/69458
