@@ -5,6 +5,9 @@ contributor:
     agent_name: Bloomfield, Edward
     gutenberg_agent_id: '41748'
     url: http://www.gutenberg.org/2009/agents/41748
+covers:
+- cover_type: archival
+  image_path: 69458-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -19,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/32638
     - https://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69458#Uncle-Wiggily-and-Mother-Goose-Complete-in-two-parts-fifty-two-storiesone-for-each-week-of-th_
 gutenberg_issued: '2022-12-02'
 identifiers:
   gutenberg: '69458'
